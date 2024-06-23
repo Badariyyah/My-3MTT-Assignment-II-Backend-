@@ -1,0 +1,203 @@
+{
+
+entities: {
+
+persons: [
+
+{
+
+name: “squid” ,
+
+sentiment: “positive”
+
+} ,
+
+{
+
+name: “kevin smith” ,
+
+sentiment: “none”
+
+} ,
+
+] ,
+
+locations: [ ] ,
+
+organizations: [
+
+{
+
+name: “netflix” ,
+
+sentiment: “positive”
+
+} ,
+
+{
+
+name: “bridgerton” ,
+
+sentiment: “none”
+
+} ,
+
+]
+
+} ,
+
+updated: “2021-10-13T03:59:54.001+03:00” ,
+
+highlightThreadTitle: “” ,
+
+uuid: “6477567a8b4cfe9c07819ae7999d35a8e7dbc305” ,
+
+thread: {
+
+social: {
+
+gplus: {
+
+shares: 0
+
+} ,
+
+pinterest: {
+
+shares: 0
+
+} ,
+
+vk: {
+
+shares: 0
+
+} ,
+
+linkedin: {
+
+shares: 0
+
+} ,
+
+facebook: {
+
+likes: 611 ,
+
+comments: 101 ,
+
+shares: 26
+
+} ,
+
+stumbledupon: {
+
+shares: 0
+
+}
+
+} ,
+
+reach: {
+
+updated: “2020-10-15T14:25:00.000+03:00” ,
+
+page_views: {
+
+per_user: 2.1 ,
+
+per_million: 5.36
+
+} ,
+
+per_million: 100
+
+} ,
+
+site_full: “www.avclub.com” ,
+
+main_image: “https://i.kinja-img.com/gawker-media/image/upload/c_fill,f_auto,fl_progressive,g_center,h_675,pg_1,q_80,w_1200/672fd005a26c07042bb181e356221437.png” ,
+
+site_section: “http://www.avclub.com/feed/rss/?tags=books” ,
+
+section_title: “The A.V. Club” ,
+
+url: “https://www.avclub.com/surprise-netflix-says-squid-game-is-their-most-success-1847851614” ,
+
+country: “US” ,
+
+domain_rank: 7064 ,
+
+title: “Surprise! Netflix says Squid Game is their most successful series launch to date” ,
+
+performance_score: 0 ,
+
+site: “avclub.com” ,
+
+site_categories: [
+
+“television” ,
+
+“entertainment”
+
+] ,
+
+participants_count: 1 ,
+
+title_full: “Surprise! Netflix says Squid Game is their most successful series launch to date” ,
+
+spam_score: 0 ,
+
+site_type: “blogs” ,
+
+published: “2021-10-13T03:56:00.000+03:00” ,
+
+replies_count: 0 ,
+
+uuid: “6477567a8b4cfe9c07819ae7999d35a8e7dbc305”
+
+} ,
+
+author: “Matt Schimkowitz” ,
+
+url: “https://www.avclub.com/surprise-netflix-says-squid-game-is-their-most-success-1847851614” ,
+
+ord_in_thread: 0 ,
+
+title: “Surprise! Netflix says Squid Game is their most successful series launch to date” ,
+
+external_images: [ ] ,
+
+highlightText: “” ,
+
+language: “english” ,
+
+text: “Netflix loves to call their latest, buzziest show their most successful show of all time . And Squid Game is no different . Earlier today, the company tweeted that 111 million people watched the first season of the hit Korean thriller in its first 28 days of release, crushing the company’s previous record-holder Bridgerton , which pulled in a paltry 82 million viewers. To thank fans, that big, creepy doll from Squid Game announced in a video that all 111 million VIPs made the show number one around the world. And according to Netflix, that’s what happened. By their metrics, Squid Game reached the top of their charts in 90 countries since debuting in September. Of course, it’s worth noting that what Netflix counts as a view is a little askew—to steal a phrase from Kevin Smith. The company’s official “view” means a user watched at least two minutes of any episode. This means that if someone sat around long enough for a video to auto-play on the platform and then let it roll until it reached “Netflix presents,” they more or less counted in the company’s 111 million. It’s also, you know, sketchy to just accept the view counts from Netflix about Netflix without corroboration. So please, take these numbers with a grain of salt. Squid Game would join the ranks of Money Heist , Dark, and Lupin in terms of wildly successful and buzzy non-English language dramas. According to Deadline , the company goes further than its competitors in terms of subtitling and dubbing. In particular, Squid Game is available in more than 30 languages. Nevertheless, the numbers indicate Netflix’s further “internationalization”—not our term—of its offerings. They even earned nods from the company’s former competitor and weirdo billionaire Jeff Bezos, who, as far as we can tell, coined the term “internationalization.” “Reed Hastings and Ted Sarandos and the team at Netflix get it right so often,” Bezos tweeted earlier this month. “Their internationalization strategy isn’t easy, and they’re making it work. Impressive and inspiring. (And I can’t wait to watch the show).” Now we’re left to wonder whether or not Bezos is one of the 111 million VIPs that watched at least two minutes of Squid Game.” ,
+
+external_links: [
+
+“https://deadline.com/2021/10/squid-game-111-million-views-in-first-month-cruising-past-bridgerton-top-all-time-netflix-original-1234854955/” ,
+
+“https://twitter.com/JeffBezos/status/1444431829214248960” ,
+
+“https://www.deadline.com/2021/10/squid-game-111-million-views-in-first-month-cruising-past-bridgerton-top-all-time-netflix-original-1234854955/” ,
+
+“https://twitter.com/JeffBezos/status/1444431829214248960?ref_src=twsrc%5Etfw” ,
+
+“https://deadline.com/2021/10/squid-game-111-million-views-in-first-month-cruising-past-bridgerton-top-all-time-netflix-original-1234854955” ,
+
+“https://www.twitter.com/JeffBezos/status/1444431829214248960?ref_src=twsrc%5Etfw”
+
+] ,
+
+published: “2021-10-13T03:56:00.000+03:00” ,
+
+parent_url: NULL ,
+
+crawled: “2021-10-13T03:59:54.001+03:00” ,
+
+highlightTitle: “” ,
+
+rating: NULL
+
+} ,

@@ -1,0 +1,24 @@
+blog-api/
+├── controllers/
+│   ├── authController.js
+│   ├── blogController.js
+├── middlewares/
+│   ├── authMiddleware.js
+│   ├── errorMiddleware.js
+├── models/
+│   ├── User.js
+│   ├── Blog.js
+├── routes/
+│   ├── authRoutes.js
+│   ├── blogRoutes.js
+├── utils/
+│   ├── calculateReadingTime.js
+│   ├── logger.js
+├── tests/
+│   ├── auth.test.js
+│   ├── blog.test.js
+├── .env
+├── app.js
+├── server.js
+├── jest.config.js
+└── README.md
